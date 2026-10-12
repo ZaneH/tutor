@@ -1,4 +1,6 @@
 *
+!materials/.gitkeep
+!materials/
 !.gitignore
 !AGENTS.md
 !LICENSE
